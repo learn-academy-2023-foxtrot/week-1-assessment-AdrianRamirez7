@@ -10,7 +10,7 @@ Type your initials here to confirm you read the instructions:
 
 INSTRUCTOR EXAMPLE: What is a conditional statement?
 
-Your answer:
+Your answer: This is a structure of code that organizes behavior logic and outputs whichever result comes out to be true or false
 
 Researched answer:
 
