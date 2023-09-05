@@ -122,4 +122,3 @@ const givenValue2 = 10
 
 console.log(numberOfConnections.lastIndexOf(givenValue1));
 console.log(numberOfConnections.lastIndexOf(givenValue2));
-
